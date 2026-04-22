@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+article {
+    padding: 1rem;
+}
+
+section.fondo {
+    background-image: url(img/levi.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin-bottom: 2rem;
+}
+
+header {
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    left: 80%;
+    transform: translate(-50%, 70%);
+    height: 50vh;        
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 7rem;
+    transition: all .9s ease;
+}
+
+h1:hover {
+    padding-left: 80px;
+}
+
+header p {
+    font-size: 1.3rem;
+    transition: all .9s ease;
+}
+
+header p:hover {
+    padding-left: 80px;
+}
+
+section.end {
+    background-image: url(img/eren.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin-bottom: 2rem;
+}
+
