@@ -1,0 +1,38 @@
+# Rock Band Landing Page
+
+## Project Title
+Rock Band Landing Page – Events & Promotion
+
+## Description
+This project is a responsive landing page designed for a rock band. The main goal is to promote the band’s identity, music, and upcoming events while capturing the attention of potential fans and concert attendees. The design focuses on energy, style, and personality, using visual elements that match the rock genre.
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Project Structure
+project-folder/  
+│  
+├── index.html        # Main landing page  
+├── css/  
+│   └── styles.css   # Stylesheet  
+├── img/  
+│   └── images       # Images used in the project  
+└── README.md        # Project documentation  
+
+## Features
+The project includes a semantic HTML structure using tags such as `header`, `nav`, `section`, `article`, and `footer`. It contains a hero section with an impactful design, a section for upcoming events including dates, locations, and cities, and an "about the band" section. It also includes a multimedia section with images or embedded content, as well as organized lists such as musical influences, band values, or social media links. The design follows a rock style with appropriate colors and typography, and it uses Flexbox and/or Grid layout for proper organization.
+
+## Responsive Design
+The website is fully responsive and adapts to different screen sizes, including mobile devices and desktop screens (greater than 1024px). Media queries are used to ensure a correct layout across all devices.
+
+## How to Run the Project
+To run this project:
+1. Download or clone the repository  
+2. Open the project folder  
+3. Open the `index.html` file in any web browser  
+
+No additional installations are required.
+
+## Purpose
+This project was created as part of a frontend development assessment to demonstrate skills in HTML5 structure, CSS3 styling, responsive design, and basic UI/UX principles.
